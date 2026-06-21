@@ -22,16 +22,3 @@ Git, GitHub, VS Code, Django / Node.js
 
 **Concepts:**  
 Data Structures, Algorithms, OOP, DBMS  
-
----
-
-## 📂 Projects
-- 🔹 E-commerce Website – Product listing, cart, authentication system  
-- 🔹 Machine Learning Project – Built using Python for real-world problem solving  
-
----
-
-
-## 📫 Contact
-- Email: rishwanththota96@gmail.com  
-- LinkedIn: [your-linkedin-link ](https://www.linkedin.com/in/rishwanththota/) 
