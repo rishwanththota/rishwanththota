@@ -31,11 +31,7 @@ Data Structures, Algorithms, OOP, DBMS
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
 
 ## 📫 Contact
-- Email: your-email@example.com  
-- LinkedIn: your-linkedin-link  
+- Email: rishwanththota96@gmail.com  
+- LinkedIn: [your-linkedin-link ](https://www.linkedin.com/in/rishwanththota/) 
