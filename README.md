@@ -5,15 +5,15 @@ I enjoy building real-world projects and improving my problem-solving skills.
 
 ---
 
-## 💡 About Me
-- 🎓 Student interested in AI & Software Development  
-- 💻 Currently learning Data Structures & Algorithms  
-- 🚀 Building projects in Web Development and Machine Learning  
-- 🎯 Goal: Become a skilled software engineer  
+##  About Me
+-  Student interested in AI & Software Development  
+-  Currently learning Data Structures & Algorithms  
+-  Building projects in Web Development and Machine Learning  
+-  Goal: Become a skilled software engineer  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 **Languages:**  
 Python, JavaScript, HTML, CSS  
 
