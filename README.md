@@ -1,37 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5B21B6&height=220&section=header&text=Rishwanth%20Thota&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=240&section=header&text=Rishwanth%20Thota&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=5B21B6&center=true&vCenter=true&width=900&lines=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Founder%20@%20AIOA;Building%20Real%20World%20AI%20Applications;Future%20AI%20Architect"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=AI%20Engineer%20%7C%20Full%20Stack%20Developer;Founder%20%40%20AIOA;Building%20Real%20World%20AI%20Systems;Cloud%20%26%20Backend%20Engineering"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rishwanththota&style=for-the-badge&color=5B21B6"/>
+<img src="https://komarev.com/ghpvc/?username=rishwanththota&style=for-the-badge&color=0E75B6"/>
 
-<img src="https://img.shields.io/github/followers/rishwanththota?style=for-the-badge&color=5B21B6&labelColor=111111"/>
+<img src="https://img.shields.io/github/followers/rishwanththota?style=for-the-badge&color=0E75B6&labelColor=111111"/>
 
-<img src="https://img.shields.io/github/stars/rishwanththota?style=for-the-badge&color=5B21B6&labelColor=111111"/>
+<img src="https://img.shields.io/github/stars/rishwanththota?style=for-the-badge&color=0E75B6&labelColor=111111"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🧠 About Me
 
 <table>
 <tr>
 <td width="65%">
 
-B.Tech AIML student passionate about building **AI-powered applications, scalable backend systems, and real-world solutions**.
+🚀 Building **real-world AI systems and scalable applications**
 
-Currently focused on:
+I am an AIML student focused on **engineering production-level solutions**, not just academic projects.
 
-- AI & Machine Learning projects  
-- Full Stack Web Development  
-- Java + DSA  
+### Current Focus:
+- AI-powered applications  
+- Backend & API systems  
+- Full stack web development  
 - Cloud fundamentals  
-- Backend development with Python & Flask  
-- Building real-world products like **NutriGuide & AIOA**
+- Java + DSA  
+
+### Vision:
+> Build AI systems that solve real-world problems at scale.
 
 </td>
 
@@ -45,23 +48,23 @@ Currently focused on:
 
 ---
 
-# 🚀 Startup (AIOA)
+# 🚀 Startup — AIOA
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AIOA-All%20In%20One%20AI-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AIOA-All%20In%20One%20AI-0E75B6?style=for-the-badge"/>
 
 </div>
 
-**Founder & Developer – AIOA**
+**Founder & Developer**
 
-Building an AI-powered platform for:
+AIOA is an AI platform focused on:
 
-- Students (learning + productivity tools)  
-- Farmers (AI-based agriculture solutions)  
-- Automation systems  
+- 🧑‍🎓 Student productivity & learning tools  
+- 🌾 AI solutions for farmers  
+- ⚙️ Automation systems  
 
-🔹 Currently developing real-time AI applications using Python & Flask.
+🔹 Currently building scalable applications using **Python, Flask & AI models**
 
 ---
 
@@ -70,18 +73,18 @@ Building an AI-powered platform for:
 <div align="center">
 
 <a href="https://www.credly.com/badges/997f4aa2-5791-4a8f-a9a4-6ab6c388af7d/public_url">
-  <img src="https://img.shields.io/badge/Google_Cloud_Computing-5B21B6?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud%20Computing-0E75B6?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </a>
 
 <a href="https://www.credly.com/badges/ad9ece65-226d-4aae-8fdf-1a65665b0d86/public_url">
-  <img src="https://img.shields.io/badge/IBM_AI_%26_Data_Fundamentals-5B21B6?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/IBM%20AI%20%26%20Data-0E75B6?style=for-the-badge&logo=ibm&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
@@ -93,11 +96,11 @@ Building an AI-powered platform for:
 
 # 💼 Experience
 
-| Role | Work |
-|------|------|
-| Founder – AIOA | Building AI startup & developing real-world solutions |
-| AIML Student | Learning AI, ML, and system design |
-| Full Stack Developer | Building responsive web applications |
+| Role | Description |
+|------|------------|
+| Founder — AIOA | Building AI startup & real-world solutions |
+| AIML Student | Developing ML & AI applications |
+| Full Stack Developer | Building responsive web apps |
 
 ---
 
@@ -107,37 +110,11 @@ Building an AI-powered platform for:
 
 | Project | Description |
 |--------|------------|
-| NutriGuide | Full-stack nutrition web app with login, dashboard & calorie tracking |
+| NutriGuide | Full-stack nutrition web app with login & dashboard |
 | AIOA | AI platform for students & farmers |
-| Mini Calculator | Responsive calculator using HTML, CSS, JS |
+| Mini Calculator | Responsive JS calculator |
 
 </div>
-
----
-
-# 📚 Current Learning
-
-<table>
-<tr>
-<td width="50%">
-
-### Development
-- Full Stack Development  
-- API Building  
-- Frontend + Backend Integration  
-
-</td>
-
-<td width="50%">
-
-### AI / ML
-- Machine Learning  
-- AI Project Development  
-- Data Handling with Python  
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -161,7 +138,7 @@ Building an AI-powered platform for:
 
 ---
 
-# 🔥 Contributions
+# 🔥 Contribution Graph
 
 <div align="center">
 
@@ -189,6 +166,6 @@ Building an AI-powered platform for:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5B21B6&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=140&section=footer"/>
 
 </div>
