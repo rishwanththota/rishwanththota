@@ -30,7 +30,6 @@ I am an AIML student focused on **engineering production-level solutions**, not 
 - AI-powered applications  
 - Backend & API systems  
 - Full stack web development  
-- Cloud fundamentals  
 - Java + DSA  
 
 ### Vision:
@@ -58,13 +57,10 @@ I am an AIML student focused on **engineering production-level solutions**, not 
 
 **Founder & Developer**
 
-AIOA is an AI platform focused on:
-
-- 🧑‍🎓 Student productivity & learning tools  
-- 🌾 AI solutions for farmers  
-- ⚙️ Automation systems  
-
-🔹 Currently building scalable applications using **Python, Flask & AI models**
+Building an AI platform for:
+- Students  
+- Farmers  
+- Automation systems  
 
 ---
 
@@ -73,11 +69,11 @@ AIOA is an AI platform focused on:
 <div align="center">
 
 <a href="https://www.credly.com/badges/997f4aa2-5791-4a8f-a9a4-6ab6c388af7d/public_url">
-<img src="https://img.shields.io/badge/Google%20Cloud%20Computing-0E75B6?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-0E75B6?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </a>
 
 <a href="https://www.credly.com/badges/ad9ece65-226d-4aae-8fdf-1a65665b0d86/public_url">
-<img src="https://img.shields.io/badge/IBM%20AI%20%26%20Data-0E75B6?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/IBM%20AI-0E75B6?style=for-the-badge&logo=ibm&logoColor=white"/>
 </a>
 
 </div>
@@ -94,30 +90,6 @@ AIOA is an AI platform focused on:
 
 ---
 
-# 💼 Experience
-
-| Role | Description |
-|------|------------|
-| Founder — AIOA | Building AI startup & real-world solutions |
-| AIML Student | Developing ML & AI applications |
-| Full Stack Developer | Building responsive web apps |
-
----
-
-# 📂 Projects
-
-<div align="center">
-
-| Project | Description |
-|--------|------------|
-| NutriGuide | Full-stack nutrition web app with login & dashboard |
-| AIOA | AI platform for students & farmers |
-| Mini Calculator | Responsive JS calculator |
-
-</div>
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -125,24 +97,6 @@ AIOA is an AI platform focused on:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishwanththota&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishwanththota&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishwanththota&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishwanththota&theme=tokyo-night"/>
 
 </div>
 
