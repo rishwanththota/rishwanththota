@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5B21B6&height=220&section=header&text=Rishwanth%20Thota&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=5B21B6&center=true&vCenter=true&width=900&lines=AIML%20Student;Full%20Stack%20Developer;AI%20Engineer%20in%20Progress;Building%20AIOA%20Startup;Future%20AI%20Architect"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=5B21B6&center=true&vCenter=true&width=900&lines=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Founder%20@%20AIOA;Building%20Real%20World%20AI%20Applications;Future%20AI%20Architect"/>
 
 <br/>
 
@@ -55,13 +55,13 @@ Currently focused on:
 
 **Founder & Developer – AIOA**
 
-Building an AI-powered platform focused on:
+Building an AI-powered platform for:
 
-- Smart tools for students  
-- AI-driven solutions for farmers  
-- Automation & productivity systems  
+- Students (learning + productivity tools)  
+- Farmers (AI-based agriculture solutions)  
+- Automation systems  
 
-🔹 Vision: Make AI accessible and useful for real-world problems.
+🔹 Currently developing real-time AI applications using Python & Flask.
 
 ---
 
@@ -69,8 +69,12 @@ Building an AI-powered platform focused on:
 
 <div align="center">
 
-<a href="YOUR_CERTIFICATE_LINK">
-  <img src="https://img.shields.io/badge/IBM-AI%20%26%20Data%20Cloud%20Fundamentals-5B21B6?style=for-the-badge&logo=ibm&logoColor=white"/>
+<a href="https://www.credly.com/badges/997f4aa2-5791-4a8f-a9a4-6ab6c388af7d/public_url">
+  <img src="https://img.shields.io/badge/Google_Cloud_Computing-5B21B6?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</a>
+
+<a href="https://www.credly.com/badges/ad9ece65-226d-4aae-8fdf-1a65665b0d86/public_url">
+  <img src="https://img.shields.io/badge/IBM_AI_%26_Data_Fundamentals-5B21B6?style=for-the-badge&logo=ibm&logoColor=white"/>
 </a>
 
 </div>
@@ -81,7 +85,7 @@ Building an AI-powered platform focused on:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,flask,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,flask,react,nodejs,git,github,vscode" />
 
 </div>
 
@@ -91,9 +95,9 @@ Building an AI-powered platform focused on:
 
 | Role | Work |
 |------|------|
-| Founder – AIOA | Building AI-based startup solutions |
-| AIML Student | Developing AI & ML applications |
-| Full Stack Developer | Creating web applications |
+| Founder – AIOA | Building AI startup & developing real-world solutions |
+| AIML Student | Learning AI, ML, and system design |
+| Full Stack Developer | Building responsive web applications |
 
 ---
 
@@ -103,9 +107,9 @@ Building an AI-powered platform focused on:
 
 | Project | Description |
 |--------|------------|
-| NutriGuide | AI-based nutrition tracking web app |
-| AIOA | All-in-One AI platform for students & farmers |
-| Mini Calculator | Web calculator using HTML, CSS, JS |
+| NutriGuide | Full-stack nutrition web app with login, dashboard & calorie tracking |
+| AIOA | AI platform for students & farmers |
+| Mini Calculator | Responsive calculator using HTML, CSS, JS |
 
 </div>
 
@@ -152,6 +156,16 @@ Building an AI-powered platform focused on:
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishwanththota&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contributions
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishwanththota&theme=tokyo-night"/>
 
 </div>
 
