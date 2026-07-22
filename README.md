@@ -138,14 +138,6 @@ AIOA is an AI platform focused on:
 
 ---
 
-# 🔥 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishwanththota&theme=tokyo-night"/>
-
-</div>
-
 ---
 
 # 📬 Connect
