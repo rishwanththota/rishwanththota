@@ -122,9 +122,9 @@ AIOA is an AI platform focused on:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishwanththota&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishwanththota96-oss&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishwanththota&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishwanththota96-oss&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
